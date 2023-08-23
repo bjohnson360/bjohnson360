@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software Engineering methodologies, Swift, databases, and frameworks.
 - 💞️ I’m looking to collaborate on web applications, apps, and more!
 - 📫 How to reach me:
-  - LinkedIn - https://www.linkedin.com/in/brian-johnson-29b958220/
+  - LinkedIn - https://www.linkedin.com/in/brianjohnson360/
   - Email - briansjohnson4@gmail.com
 
 <!---
