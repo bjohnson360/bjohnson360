@@ -1,7 +1,7 @@
 
 ### Hello! 👋
 
-- 💼 Prev. Software Engineer Intern @ Intuit
+- 💼 Software Engineer 1 @ Intuit
 - 🎥 Mobile, Web Development, Python, and AI/ML Enthusiast
 - 🔭 BS/MS Computer Science @ Georgia State University 2025/2027
 - ⚡ Prev. CodePath Tech Fellow for Technical Interview Prep and Intro to iOS Development 
